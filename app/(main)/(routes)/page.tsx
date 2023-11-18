@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       Home Page
-      {/* <UserButton afterSignOutUrl="/" /> */}
+      <UserButton afterSignOutUrl="/" />
     </div>
   );
 }
